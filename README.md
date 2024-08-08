@@ -43,7 +43,7 @@ Generative Adversarial Networks (GANs) are a class of machine learning framework
 ## Results
 
 - The model successfully generates high-quality images of cats after sufficient training epochs.
-- Examples of generated images can be found in the `results` directory.
+
 
 ## Contributing
 
